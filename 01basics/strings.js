@@ -3,7 +3,7 @@ const repocount = 50
 // console.log(name + repocount + "value");
 console.log(`hello my name is ${name} and my repocount is ${repocount}`);
 
-const gamename = new String('utkarshj')
+const gamename = new String('utkarsh-j')
 console.log(gamename[0]);
 console.log(gamename.length );
 console.log(gamename.toUpperCase());
